@@ -1,5 +1,5 @@
 # langchain-doc-reader
-Uses langchain and faiss to read data from doc and returns selective search response
+Uses langchain, faiss and chroma to read data from uploaded doc or local directory and returns selective search response.
 
 
 **Requirements** : 
